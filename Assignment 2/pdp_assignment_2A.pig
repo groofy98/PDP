@@ -1,5 +1,5 @@
 /* @Author: Sjors Grooff
-Date: 09-09-2020
+Date: 09-09-2021
 
 Load the data from the CSV files with the correct datatypes.
 I used the apache CSVExcelstorage loader because the csv was formatted as such and omitted the quote removal step.
