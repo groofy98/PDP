@@ -1,3 +1,5 @@
+# @Author: Sjors Grooff
+# Date: 09-09-2021
 # Command: python pdp_assignment_1.py --hadoop-streaming-jar /usr/hdp/current/hadoop-mapreduce-client/hadoop-streaming.jar  -r hadoop hdfs:///user/maria_dev/ml-100k/u.data
 
 # Import necessary libraries

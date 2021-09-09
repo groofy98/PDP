@@ -1,5 +1,8 @@
-/* Load the data from the CVS files with the correct datatypes.
-I used the CSVExcelstorage loader because the csv was formatted as such and omitted the quote removal step.
+/* @Author: Sjors Grooff
+Date: 09-09-2020
+
+Load the data from the CSV files with the correct datatypes.
+I used the apache CSVExcelstorage loader because the csv was formatted as such and omitted the quote removal step.
 */
 orders = LOAD '/user/maria_dev/orders.csv' USING org.apache.pig.piggybank.storage.CSVExcelStorage() AS
 	(game_id:int,
