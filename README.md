@@ -8,6 +8,6 @@ Assignment 1 - MRJob / Mapreduce:
 Assignment 2A - Pig:
 ![image](https://user-images.githubusercontent.com/33691096/132739075-44b19e75-38b6-4ce9-81f7-d1ef2091ce20.png)
 
-Assignment 3A & 3B:
+Assignment 3A & 3C:
 ![image](https://user-images.githubusercontent.com/33691096/132739234-66ca1e25-93c6-4992-b491-c381352e8059.png)
 
